@@ -16,7 +16,7 @@ Safest fix:
 3. Avoid HTML + markdown mixing initially
 
 Use this clean structure:
-
+![Architecture](https://raw.githubusercontent.com/vitthalss/cloud-native-commerce-platform/main/cloud-native-commerce-platform.png)
 ```md id="3ggf4i"
 # Cloud-Native Commerce Platform
 
