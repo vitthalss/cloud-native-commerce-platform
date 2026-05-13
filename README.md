@@ -1,23 +1,5 @@
-That means the image itself is fine.
-The issue is somewhere in the remaining README markdown formatting.
 
-Most likely causes:
-
-* broken HTML tag
-* invalid markdown block
-* invisible characters
-* malformed separators (`---`)
-* unclosed code block
-
-Safest fix:
-
-1. Keep image section at top
-2. Re-add sections gradually
-3. Avoid HTML + markdown mixing initially
-
-Use this clean structure:
-
-# Cloud-Native Commerce Platform
+## Cloud-Native Commerce Platform
 ![Architecture](https://raw.githubusercontent.com/vitthalss/cloud-native-commerce-platform/main/cloud-native-commerce-platform.png)
 
 ```md id="3ggf4i"
