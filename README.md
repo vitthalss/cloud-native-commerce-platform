@@ -43,5 +43,3 @@ Enterprise-grade cloud-native microservices platform built using Spring Boot and
 
 Demonstrates enterprise microservices architecture and cloud-native engineering patterns.
 ```
-
-This version should render correctly.
