@@ -1,6 +1,5 @@
 ```md
 
-# Cloud-Native Commerce Platform
 
 ![Cloud Native Commerce Platform](https://raw.githubusercontent.com/vitthalss/cloud-native-commerce-platform/main/cloud-native-commerce-platform.png)
 
