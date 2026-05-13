@@ -2,7 +2,7 @@
 
 # Cloud-Native Commerce Platform
 
-<img width="1400" alt="Cloud Native Commerce Platform" src="https://raw.githubusercontent.com/vitthalss/cloud-native-commerce-platform/main/cloud-native-commerce-platform.png">
+<img width="1400" alt="Cloud Native Commerce Platform" src="https://github.com/vitthalss/cloud-native-commerce-platform/blob/main/cloud-native-commerce-platform.png">
 
 ## Overview
 
