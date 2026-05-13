@@ -1,13 +1,8 @@
 ```md
 # Cloud-Native Commerce Platform
 
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/76038143/199672306-b2ac8001-8e3b-404e-bb42-d0b036b44aa1.jpeg" 
-    alt="Cloud Native Commerce Platform Architecture" 
-    width="900"
-  />
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1e6a6560-b5a0-40a5-bcc6-a914cf939609" />
+
 
 ## Overview
 
