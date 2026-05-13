@@ -2,7 +2,8 @@
 
 # Cloud-Native Commerce Platform
 
-![Cloud Native Commerce Platform](cloud-native-commerce-platform.png)
+![Cloud Native Commerce Platform](./cloud-native-commerce-platform.png)
+
 ## Overview
 
 Enterprise-grade cloud-native microservices platform built using Spring Boot and Spring Cloud, demonstrating scalable distributed system architecture, secure service communication and modern DevOps deployment practices.
